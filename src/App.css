@@ -1,0 +1,8 @@
+.button{
+  height: 30px;
+  width: fit-content;
+  margin: 20% 40%;
+  font-size: 23px;
+  border:none;
+  color:rgb(117, 180, 231);
+}
